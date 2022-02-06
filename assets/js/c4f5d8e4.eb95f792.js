@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocsa=self.webpackChunkdocsa||[]).push([[195],{2841:function(t,e,n){n.r(e),n.d(e,{default:function(){return u}});var r=n(7294),c=n(6775);function u(){return r.createElement(c.l_,{to:"https://developers.buywithcrypto.fr/docs/intro"})}}}]);
