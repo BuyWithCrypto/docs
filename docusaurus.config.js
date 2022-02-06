@@ -59,7 +59,7 @@ const config = {
             position: 'left',
             label: 'Documentation',
           },
-          {to: '/', label: 'Tutorials', position: 'left'},
+          {to: 'https://developers.buywithcrypto.fr/', label: 'Tutorials', position: 'left'},
           {
             href: 'https://app.buywithcrypto.fr/',
             label: 'DApp',
@@ -84,11 +84,11 @@ const config = {
             items: [
               {
                 label: 'Documentation',
-                to: '/docs/intro',
+                to: 'https://developers.buywithcrypto.fr/docs/intro',
               },
               {
                 label: 'APIs and Endpoints',
-                to: '/',
+                to: 'https://developers.buywithcrypto.fr/',
               },
               {
                 label: 'Our Github',
