@@ -9,7 +9,7 @@ const config = {
   title: 'BuyWithCrypto - Documentation',
   tagline: 'BuyWithCrypto technical documentation. The perfect place for BuyWithCrypto documentation and learning for developers and professionals.',
   url: 'https://developers.buywithcrypto.fr/',
-  baseUrl: 'https://developers.buywithcrypto.fr/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'https://cdn.buywithcrypto.fr/website/assets/favicons/apple-touch-icon.png',
@@ -59,7 +59,7 @@ const config = {
             position: 'left',
             label: 'Documentation',
           },
-          {to: 'https://developers.buywithcrypto.fr/', label: 'Tutorials', position: 'left'},
+          {to: '/', label: 'Tutorials', position: 'left'},
           {
             href: 'https://app.buywithcrypto.fr/',
             label: 'DApp',
@@ -84,11 +84,11 @@ const config = {
             items: [
               {
                 label: 'Documentation',
-                to: 'https://developers.buywithcrypto.fr/docs/intro',
+                to: '/docs/intro',
               },
               {
                 label: 'APIs and Endpoints',
-                to: 'https://developers.buywithcrypto.fr/',
+                to: '/',
               },
               {
                 label: 'Our Github',
