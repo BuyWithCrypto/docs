@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://developers.buywithcrypto.fr/blog</id>
+    <title>BuyWithCrypto - Documentation Blog</title>
+    <updated>2015-10-25T23:29:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://developers.buywithcrypto.fr/blog"/>
+    <subtitle>BuyWithCrypto - Documentation Blog</subtitle>
+    <icon>https://developers.buywithcrypto.fr/https://cdn.buywithcrypto.fr/website/assets/favicons/apple-touch-icon.png</icon>
+</feed>
