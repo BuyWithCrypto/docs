@@ -15,14 +15,13 @@ const config = {
   favicon: 'https://cdn.buywithcrypto.fr/website/assets/favicons/apple-touch-icon.png',
   organizationName: 'BuyWithCrypto',
   projectName: 'docs',
-  deploymentBranch: 'gh-pages',
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'fr'],
   },
   presets: [
     [
-      'classic',
+      '@docusaurus/preset-classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
