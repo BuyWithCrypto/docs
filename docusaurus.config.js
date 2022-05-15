@@ -115,17 +115,29 @@ const config = {
                 to: 'https://status.buywithcrypto.fr/',
               },
               {
-                label: 'Contact',
-                to: 'mailto:assistance@support.buywithcrypto.fr',
+                label: 'Wallets',
+                to: 'https://public.buywithcrypto.fr/',
               },
             ],
           },
           {
-            title: 'Contact Us',
+            title: 'Support',
             items: [
               {
                 label: 'Our Assistance',
                 to: 'mailto:assistance@support.buywithcrypto.fr',
+              },
+              {
+                label: 'Privacy Policy',
+                to: 'https://www.buywithcrypto.fr/legal/privacy-policy/',
+              },
+              {
+                label: 'Return Policy',
+                to: 'https://www.buywithcrypto.fr/legal/return-policy/',
+              },
+              {
+                label: 'Terms of use',
+                to: 'https://www.buywithcrypto.fr/legal/terms-conditions/',
               },
             ],
           },
